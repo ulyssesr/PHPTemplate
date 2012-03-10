@@ -1,0 +1,6 @@
+form {border:none;font-family:Courier;}
+fieldset {border:1px solid #ccc;width:400px;}
+label {display:block;padding:3px;}
+input {margin:0; padding:2px;}
+textarea {margin:10px 0; padding:2px;}
+input, textarea {font-family:Courier;font-size:12px;}
