@@ -1,1 +1,1 @@
-PHP Template is a set of PHP scripts that I use to aid in quick development of applications. I'm using database and login singletons, classes for forms, tables, mails, smtp, etc. The plugin is released under GPLv3, and is compatible with the latest WordPress version 3.3.1.
+PHP Template is a set of PHP scripts I use for quick development of applications. It contains database and login singletons, as well as classes for forms, tables, mails, smtp, etc. Released under GPLv3.
